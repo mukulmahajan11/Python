@@ -11,6 +11,7 @@ class Solution:
 # Space: O(n * m)
 # n is the number of strings, m is the length of largest string
 
+
 # Optimal Solution
 from collections import defaultdict
 class Solution:
