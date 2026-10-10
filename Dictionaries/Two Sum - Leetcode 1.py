@@ -9,7 +9,7 @@ class Solution:
     # Time: O(n^2)
     # Space: O(1)
 
-# Better Brute Force Solution
+# Better Brute Force Solution 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         n = len(nums)
