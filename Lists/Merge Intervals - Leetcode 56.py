@@ -9,7 +9,7 @@ class Solution:
             else:
                 merged[-1] = [merged[-1][0], max(merged[-1][1], interval[1])]
         
-        return merged
+        return merged 
         # Time: O(n log n)
         # Space: O(n)
 
